@@ -5,21 +5,32 @@ open Windows*” -Linus Torvalds
 
 ### Project Status
 
-- The code
-    - [x] 1 = Display the entire csv file
-    - [x] 2 = Display csv with Date as index
-    - [x] 3 = Display first n or last n Dates
-    - [x] 4 = Display a particular column
-    - [x] 5 = Display a particular row
-    - [x] 6 = LINEGRAPH 
-    - [ ] 7 = BARGRAPH
-    - [ ] 8 = HISTOGRAM
-    - [ ] 9 = Add 2 new records
-    - [ ] 10 = Add a new column??
-    - [ ] 11 = Delete record of user's choice
-    - [ ] 12 = Delete column of user's choice
-    - [ ] 13 = Sort values by ascending order of __ [^1]
-    - [x] 14 = Exit
+#### Coding
+
+- [x] Display the entire csv file
+- [x] Display csv with Date as index
+- [x] Display first n or last n Dates
+- [x] Display a particular column
+- [x] Display a particular row
+- [x] Linegraph 
+- [ ] Bargraph
+- [ ] Histogram
+- [ ] Add 2 new records
+- [ ] Add a new column??
+- [ ] Delete record of user's choice
+- [ ] Delete column of user's choice
+- [ ] Sort values by ascending order of `<column>`
+- [x] Exit
+
+#### Writing [^1]
+
+- [ ] ? 
+- [ ] ? 
+- [ ] ? 
+- [ ] ? 
+- [ ] ? 
+
+## Synopsis
 
 #### Objective
 The objective of this project is to highlight the use cases of python and its
@@ -67,4 +78,4 @@ and assistance in submitting this Synopsis on the project we have
 undertaken.
 
 
-[^1]: Not sure if this is possible with our topic
+[^1]: I don't know the format of this shit
