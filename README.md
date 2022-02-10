@@ -66,9 +66,12 @@ control over their PC, which Windows does not allow.
 
 #### Team Members
 - Savio Alphonso
-- Aswin Anil
-- Bivino Jacob
-- Nandu Ajith
+- Chitraksh Mahur [^2]
+
+~~**Useless Niggers**~~ [^3]
+- ~~Aswin Anil~~
+- ~~Bivino Jacob~~
+- ~~Nandu Ajith~~
 
 ### Acknowledgement
 I would like to express my sincere gratitude to my Informatics Practices
@@ -79,3 +82,5 @@ undertaken.
 
 
 [^1]: I don't know the format of this shit
+[^2]: Some random Noida nigger
+[^3]: MFs would seenzone me so I left that shitty group
