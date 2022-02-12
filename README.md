@@ -12,7 +12,7 @@
 - [x] Display a particular column
 - [x] Display a particular row
 - [x] Linegraph 
-- [ ] Bargraph
+- [x] Bargraph
 - [ ] Histogram
 - [ ] Add 2 new records
 - [ ] Add a new column??
