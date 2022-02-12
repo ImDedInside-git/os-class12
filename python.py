@@ -8,17 +8,24 @@ details="""
 OPERATING SYSTEM MARKET SHARE
 """
 
+
 defaultpath=('/home/savio/Project/os.csv')
 
 
-path=input(f"Do you want to use the default csv path? {defaultpath} [y/N] ")   
+path=input(f"Do you want to use the default csv path? {defaultpath} [Y/n] ")   
 
-if path == "y":
-    path=defaultpath
-elif path == "Y":
-    path=defaultpath
-else:
+if path == "N":
     path=input("Enter your path  ")
+    print("Reading...")
+elif path == "n":
+    path=input("Enter your path  ")
+    print("Reading...")
+else:
+    path=defaultpath
+    print("        Reading csv ...")
+    
+
+
 
 print(mark)
 
@@ -57,8 +64,8 @@ def selector():
     print("4  = Display a particular column")
     print("5  = Display a particular row")
     print("6  = Linegraph")
-    print("7  = ")
-    print("8  = ")
+    print("7  = Bargraph")
+    print("8  = Histogram")
     print("9  = ")
     print("10 = ")
     print("11 = ")
@@ -92,6 +99,13 @@ def selector():
     elif option==6:
 #        linegraph()         #Commented out as source code is hidden 🔒
         return
+    elif option==7:
+#        bargraph()
+        return
+    elif option==8:
+#        histogram()
+        return
+
 
 
     elif option==14:

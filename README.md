@@ -1,7 +1,6 @@
 # Analysis of Operating System Market Share
 
-“*A computer is like air conditioning – it becomes useless when you
-open Windows*” -Linus Torvalds
+“*Software is like sex -- it's better when it's free*” -Linus Torvalds
 
 ### Project Status
 
