@@ -69,6 +69,7 @@ control over their PC, which Windows does not allow.
 - Bivino Jacob [^2]
 - Nandu Ajith [^2]
 - Chitraksh Mahur [^3]
+- Shajahan Nasar [^4]
 
 ### Acknowledgement
 I would like to express my sincere gratitude to my Informatics Practices
@@ -81,3 +82,4 @@ undertaken.
 [^1]: I don't know the format of this shit
 [^2]: Eat cum fags. this is all the code ull need to complete this shit. IF YOU CANT DO THIS IM GOIN SOLO AND NOT SHARING THE SOURCE CODE. COPE
 [^3]: Very helpful Noida nigger. Knows more than CS students coz he smort now go and suck his ASCII pp.
+[^4]: Random Homeless Mallu faggot picked from the streets of Manama
