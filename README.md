@@ -65,12 +65,10 @@ control over their PC, which Windows does not allow.
 
 #### Team Members
 - Savio Alphonso
-- Chitraksh Mahur [^2]
-
-~~**Useless Niggers**~~ [^3]
-- ~~Aswin Anil~~
-- ~~Bivino Jacob~~
-- ~~Nandu Ajith~~
+- Aswin Anil [^2]
+- Bivino Jacob [^2]
+- Nandu Ajith [^2]
+- Chitraksh Mahur [^3]
 
 ### Acknowledgement
 I would like to express my sincere gratitude to my Informatics Practices
@@ -81,5 +79,5 @@ undertaken.
 
 
 [^1]: I don't know the format of this shit
-[^2]: Some random Noida nigger
-[^3]: MFs would seenzone me so I left that shitty group
+[^2]: Eat cum fags. this is all the code ull need to complete this shit. IF YOU CANT DO THIS IM GOIN SOLO AND NOT SHARING THE SOURCE CODE. COPE
+[^3]: Very helpful Noida nigger
