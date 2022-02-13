@@ -80,4 +80,4 @@ undertaken.
 
 [^1]: I don't know the format of this shit
 [^2]: Eat cum fags. this is all the code ull need to complete this shit. IF YOU CANT DO THIS IM GOIN SOLO AND NOT SHARING THE SOURCE CODE. COPE
-[^3]: Very helpful Noida nigger
+[^3]: Very helpful Noida nigger. Knows more than CS students coz he smort now go and suck his ASCII pp.
