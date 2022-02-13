@@ -43,7 +43,7 @@ software resources, and provides common services for computer programs.
 
 #### Description
 This project is prepared by a group of students from class 12-D using Google
-Docs, GEISB, GNU Linux, Neovim, Python3 & Mozilla Firefox.
+Docs, GEISB, GNU Linux, Neovim, Python3, Visual Studio Code & Mozilla Firefox.
 
 #### Project Analysis
 With the help of the project, we aim to help you to understand the market
