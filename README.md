@@ -1,7 +1,5 @@
 # Analysis of Operating System Market Share
 
-9UtKnrt?dnA)N4dznFps
-
 ### Project Status
 
 #### Coding
@@ -23,11 +21,11 @@
 
 #### Writing [^1]
 
-- [x] ? 
-- [x] ? 
-- [x] ? 
-- [x] ? 
-- [x] ? 
+- [x] Introduction 
+- [x] Screenshots
+- [x] Code snippets
+- [x] About OS
+- [x] Conclusion / Findings
 
 ## Synopsis
 
