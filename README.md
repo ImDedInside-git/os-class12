@@ -13,21 +13,21 @@
 - [x] Display a particular row
 - [x] Linegraph 
 - [x] Bargraph
-- [ ] Histogram
-- [ ] Add 2 new records
-- [ ] Add a new column??
-- [ ] Delete record of user's choice
-- [ ] Delete column of user's choice
-- [ ] Sort values by ascending order of `<column>`
+- [x] Histogram
+- [x] Add 2 new records
+- [x] Add a new column??
+- [x] Delete record of user's choice
+- [x] Delete column of user's choice
+- [x] Sort values by ascending order of `<column>`
 - [x] Exit
 
 #### Writing [^1]
 
-- [ ] ? 
-- [ ] ? 
-- [ ] ? 
-- [ ] ? 
-- [ ] ? 
+- [x] ? 
+- [x] ? 
+- [x] ? 
+- [x] ? 
+- [x] ? 
 
 ## Synopsis
 
@@ -64,12 +64,10 @@ Desktop Linux with a GUI is used by Super Users who want more granular
 control over their PC, which Windows does not allow.
 
 #### Team Members
-- Savio Alphonso
-- Aswin Anil [^2]
-- Bivino Jacob [^2]
-- Nandu Ajith [^2]
-- Chitraksh Mahur [^3]
-- Shajahan Nasar [^4]
+- [Savio Alphonso](https://github.com/ImDedInside-git)
+- [Chitraksh Mahur](https://github.com/sternywastaken)
+- [Shajahan Nasar](https://github.com/Masteroduo)
+- Nandu Ajit
 
 ### Acknowledgement
 I would like to express my sincere gratitude to my Informatics Practices
@@ -78,8 +76,3 @@ about these modules. I would also like to thank my teammates for the support
 and assistance in submitting this Synopsis on the project we have
 undertaken.
 
-
-[^1]: I don't know the format of this shit
-[^2]: Eat cum fags. this is all the code ull need to complete this shit. IF YOU CANT DO THIS IM GOIN SOLO AND NOT SHARING THE SOURCE CODE. COPE
-[^3]: Very helpful Noida nigger. Knows more than CS students coz he smort now go and suck his ASCII pp.
-[^4]: Random Homeless Mallu faggot picked from the streets of Manama
